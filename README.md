@@ -7,7 +7,9 @@
 
 <div>
 <a href="https://www.linkedin.com/in/figueiredolivia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href = "mailto:figlivia@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+<a href="mailto:figlivia@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=red&color=white" />
+</a>
 <a href="#" target="_blank">
   <img src="https://img.shields.io/badge/-Portf%C3%B3lio-%23333?style=for-the-badge&logo=code&logoColor=white">
 </a>
@@ -23,7 +25,7 @@
 
 ### 🛠️ Tecnologias & Ferramentas
 <p align="left">
-
+<br />
 **Infraestrutura, Observabilidade & Sistemas Operacionais:**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
