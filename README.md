@@ -14,7 +14,7 @@
 </div>
 
 ### 👩🏻‍💻 Sobre mim
-- 🔭 **Analista de Infraestrutura de TI & Sistemas** com vasta experiência em sustentação Linux, VMware, Zabbix e governança ITSM (GLPI).
+- 🔭 **Analista de Infraestrutura de TI & Sistemas** com vivencia em sustentação Linux, VMware, Zabbix e governança ITSM (GLPI).
 - 🎓 Bacharel em **Sistemas de Informação** e Especialista em **Arquitetura de Software**.
 - 🛠️ Atuação híbrida: Dev Front-end (Vue.js, JavaScript, HTML5/CSS3) e Engenharia Backend (Java, Node.js, PHP, SQL/MySQL).
 - ⚙️ Histórico em grandes operações de infraestrutura e projetos institucionais (Comando Militar do Norte / Prodepa).
